@@ -1,0 +1,12 @@
+package com.slt.enums;
+
+public enum ConfigProperties {
+	
+	URL,
+	OVERRIDEREPORTS,
+	PASSEDSTEPSSCREENSHOTS,
+	FAILEDSTEPSSCREENSHOTS,
+	SKIPPEDSTEPSSCREENSHOTS,
+	BROWSER;
+
+}
